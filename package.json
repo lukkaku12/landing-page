@@ -1,0 +1,25 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukkaku12/landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukkaku12/landing-page/issues"
+  },
+  "homepage": "https://github.com/lukkaku12/landing-page#readme",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "type": "module"
+  }
+  
+}
